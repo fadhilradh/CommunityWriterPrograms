@@ -14,7 +14,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical content and tutorials for the Agora community.
 
 - [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
-  [] Need to study data eng first
+[] Need to study data eng first
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features. 
 
 
