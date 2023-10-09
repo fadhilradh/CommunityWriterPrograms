@@ -15,7 +15,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Airbyte](https://airbyte.com/write-for-the-community) - $900 per article of about 1500 words.
   > Data engineering tutorials, tutorials that cover Airbyte use cases and features.
-  > Need to study data eng first
+  [] Need to study data eng first
 
 - [Alan AI](https://forms.gle/VJ3gQ2tNWqd3pLq97) - $75-$200 per article.
   > Technical content, tutorials, building demo projects, and how-to guides that includes Alan AI platform.
